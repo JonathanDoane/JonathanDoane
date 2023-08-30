@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-⚡I am an aspiring Software Developer who is passionate in full stack applications!
+⚡I am an aspiring Software Developer who is passionate in full stack applications! <br>
 🔭 I’m currently working on more advanced Next.js and Java Spring Boot<br>
 🌱 I am officially certified by <a href = 'https://www.codingdojo.com/software-development-part-time-accelerated'>Coding Dojo<a>, an intensive programming bootcamp,<br> in Python, MERN, and Java stacks <br>
 
